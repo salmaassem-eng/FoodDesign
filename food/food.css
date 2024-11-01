@@ -1,0 +1,259 @@
+
+*{
+    background-color: #f3f3f3;
+    font-family:serif;
+}
+
+.serch{
+    position: relative;
+    width: 3%;
+    left: 55%;
+    top: 15px;
+}
+
+nav{
+    margin-left: 25%;
+    position: absolute;
+    background-size: cover;
+    width: 50%;
+}
+
+nav ul{
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    margin: 0%;
+    padding-left: 55px;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    position: relative;
+    left: 58%;
+}
+
+nav ul li a{
+    text-decoration: none;
+    text-align: center;
+    color: #0000004e;
+    font-size: 17px;
+}
+
+
+.img{
+    height: 0%; 
+    width: 2%;
+    position: relative;
+    left: 94%;
+    top: 10px;
+}
+
+h2{
+    position: relative;
+    left: 200px;
+    display: inline-block;
+
+}
+
+.circle1{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 450px;
+    border:1px solid whitesmoke;
+    box-shadow: 0px 10px 12px 5px  rgba(0, 0, 0, 0.08) ;
+    border-radius: 50%;
+    margin: auto;
+    left: 8.5%;
+    top: 100px;
+}
+
+.serch1{
+    position: relative;
+    background-color: white;
+    width: 11%;
+    left: 45%;
+    top: 15px;
+}
+
+.circle2{
+    position: relative;
+    width: 238px;
+    height: 235px;
+    border:1px solid whitesmoke;
+    border-radius: 50%;
+    margin: auto;
+    top: 12%;
+      box-shadow: -8px 35px 12px 5px  rgba(0, 0, 0, 0.1) ;
+}
+
+.plate{
+    position: relative;
+    background-color: rgba(212, 212, 212, 0);
+    width: 107%;
+    top:-1% ;
+    left: -3%;
+  
+}
+
+.slide1 , .slide2, .slide3{
+    position: fixed;
+    height: 95px;
+    bottom: 200px;
+    right: 0%;
+    margin: 10px;
+    border-radius: 100px 0px 0px 100px;
+    border: 1px #f3f3f3;
+}
+
+.slide1{
+    width: 28%;
+    top: 35%;
+    background-color: rgb(255, 111, 0);
+}
+
+.slide2{
+    width: 27%;
+    top: 50%;
+    background-color: white;
+}
+
+.slide3{
+    width: 28.7%;
+    top: 65%;
+    background-color: white;
+}
+
+.circle-slide{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    border:1px solid whitesmoke;
+    border-radius: 50%;
+    margin: auto;
+    left: -33%;
+    top: 9%;
+      box-shadow: 0px 10px 12px 5px  rgba(0, 0, 0, 0.308) ;
+}
+
+.plate1,.plate2,.plate3{
+    position: relative;
+    top: 9%;
+}
+.plate1{
+    background-color: rgba(255, 111, 0, 0);
+    left: 2%;
+    width: 19%;
+}
+.plate2{
+    background-color: rgba(255, 255, 255, 0);
+    left:-2%;
+    top:1%;
+    width: 104%;
+}
+
+.plate3{
+    background-color: rgba(255, 255, 255, 0);
+    left: 5%;
+    width: 19%;
+}
+
+p{
+    position: relative;
+    background-color: #f3f3f300;
+}
+
+.slide1 p{
+    top: -82%;
+    left: 25%;
+    color: white;
+}
+
+.slide2 p {
+    top: -70%;
+    left: 31%;
+    font-weight: 550;
+}
+
+.slide3 p{
+    top: -70%;
+    left: 28%;
+    font-weight: 550;
+}
+
+.price{
+    position: relative;
+    background-color: rgb(255, 111, 0);
+    border-radius: 50px 50px 50px 50px;
+    height: 40px;
+    width: 220px;
+    left: 51%;
+    top: 50px;
+}
+
+.price p{
+    position: relative;
+    color: white;
+    top: 10px;
+    left: 20%;
+}
+
+.pre{
+    position: fixed;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.397);
+    background-color: #00000000;
+    left: 50%;
+    bottom: 7%;
+}
+
+.food-zone{
+    position: fixed;
+    font-size:110px;
+    font-weight: 700;
+    background-color: #00000000;
+}
+
+.p1{
+    position: fixed;
+    top: 20%;
+    left: 26%;
+}
+
+.p2{
+    position: fixed;
+    top: 35%;
+    left: 30%;
+}
+
+.p3{
+    position: fixed;
+    top: 65%;
+    left: 31.4%;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.669);
+}
+
+footer{
+    position:  relative;
+    top: 70px;
+    left: 0%;
+}
+
+footer p{
+        position: relative;
+        margin-left: 270px;
+        font-weight: 600;
+        color: rgba(0, 0, 0, 0.731);
+}
+
+.face ,.twit ,.insta{
+    position: relative;
+    width: 1.5%;
+    margin-right: 10px;
+    top: -30px;
+    left: 88%;
+}
